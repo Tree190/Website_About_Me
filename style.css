@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Phudu:wght@300&display=swap');
+
+body {
+    font-family: 'Phudu', cursive;
+    text-align: center;
+    background-image: url(./BG\ IMG.jpg);
+    background-repeat: no-repeat;
+    mix-blend-mode:normal;
+    margin: 40px;
+}
+
+.H1 {
+    color: rgb(16, 13, 51);
+    font-size: 40px;
+    margin: 30px;
+    mix-blend-mode:normal;
+}
+
+.P{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 50px;
+    mix-blend-mode:normal;
+}
+
+.Wally-World {
+    color: rgb(16, 13, 51);
+    font-size: 20px;
+    margin: 30px;
+}
+
+.Red {
+    background-color: rgb(134, 18, 18);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    transition: all 0.5s;
+}
+
+.Orange {
+    background-color: rgb(134, 55, 18);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    transition: all 0.5s;
+}
+
+.Lellow {
+    background-color: rgb(201, 196, 125);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    transition: all 0.5s;
+}
+
+.Red:active {
+    background-color: rgb(185, 25, 25);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.Lellow:active {
+    background-color: rgb(247, 241, 158);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.Orange:active {
+    background-color: rgb(187, 78, 27);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+}
